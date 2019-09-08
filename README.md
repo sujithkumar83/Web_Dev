@@ -27,5 +27,5 @@ HTML5 and CSS3 course by Jonas Schmedtmann on Udemy
 	6) Launch using a webserver
 	7) Site Maintenance
 		a. Monitor User Behaviour
-Update your Website/ Blog
+		b. Update your Website/ Blog
 
