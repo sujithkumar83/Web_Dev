@@ -1,0 +1,19 @@
+
+
+h1,h2{
+    color:  skyblue;
+    font-family: Helvetica Neue, Arial;
+    
+    
+}
+
+h1{
+    font-size: 40px; 
+}
+
+h2{
+    font-size: 30px; 
+}
+.main-body {
+    font-size: 15px;
+}
