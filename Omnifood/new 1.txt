@@ -1,0 +1,23 @@
+#
+
+https://www.slideshare.net/helenaedelson/streaming-analytics-with-spark-kafka-cassandra-and-akka?next_slideshow=2
+
+#
+
+https://streaml.io/blog/pulsar-streaming-queuing
+https://hackernoon.com/a-super-quick-comparison-between-kafka-and-message-queues-e69742d855a8
+https://kafkaesque.io/7-reasons-we-choose-apache-pulsar-over-apache-kafka/
+https://www.confluent.io/blog/stories-front-lessons-learned-supporting-apache-kafka/
+https://pulsar.apache.org/docs/en/concepts-architecture-overview/#apache-bookkeeper
+https://pulsar.apache.org/docs/en/concepts-architecture-overview/#brokers
+https://kafkaesque.io/5-more-reasons-to-choose-apache-pulsar-over-kafka/
+
+#
+
+Concepts- Kill E and L in ETL
+Segmentations module need temp adjustments for daily data adjustments
+SHOP can go fuck themselves
+We need to hav data collection coversations with retailers. Beyond the window we will charge them. 
+
+#
+
